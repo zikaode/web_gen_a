@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <section className="space-y-5">
       <Alert>
-        <AlertTitle>Hai User!</AlertTitle>
+        <AlertTitle>Hai User Edit!</AlertTitle>
         <AlertDescription>
           Selamat datang di halaman dashboard yang sederhana dan cakep ini
         </AlertDescription>
